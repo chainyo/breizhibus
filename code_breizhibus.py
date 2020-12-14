@@ -5,8 +5,8 @@ class Bdd():
 
     def __init__(self) :
         self.config = {
-        'user': 'dbadmin',
-        'password': '150k60BRO',
+        'user': 'root',
+        'password': 'root',
         'host': 'localhost',
         'port': '3306',
         'database': 'projet_breizhibus',
