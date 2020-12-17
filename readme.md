@@ -33,9 +33,9 @@ Chaque ligne dispose de son bouton personnel pour afficher les arrêts qui lui s
 ![Bus Screen](./screenshots/bus_screen.png)
 
 Toutes les informations des bus sont listées dans le tableau.
-Chaque bus dispose de deux boutons :
-    - `modifier` : ce bouton permet de modifier les informations d'un bus et de sauvegarder les changements dans la base de données
-    - `supprimer` : ce bouton permet de supprimer un bus de la base de données
+Chaque bus dispose de deux boutons :   
+    - `modifier` : ce bouton permet de modifier les informations d'un bus et de sauvegarder les changements dans la base de données    
+    - `supprimer` : ce bouton permet de supprimer un bus de la base de données   
 
 le bouton `+` permet d'accèder à la page d'ajout de bus.
 
